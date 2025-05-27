@@ -176,3 +176,8 @@ cython_debug/
 # Others
 *.yaml
 *.json
+*.csv
+*.xls
+*.xlsx
+.DS_Store
+*.sh
